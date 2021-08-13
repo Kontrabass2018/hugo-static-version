@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bonnefoy | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/a.-bonnefoy/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/a.-bonnefoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Bonnefoy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Bonnefoy</title>
+      <link>https://www.lemieux.iric.ca/author/a.-bonnefoy/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic landscape of acute promyelocytic leukemia reveals aberrant surface expression of the platelet aggregation agonist Podoplanin</title>
+      <link>https://www.lemieux.iric.ca/publication/2018_lavallee_transcriptomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2018_lavallee_transcriptomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

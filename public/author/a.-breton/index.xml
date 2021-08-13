@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Breton | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/a.-breton/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/a.-breton/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Breton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Breton</title>
+      <link>https://www.lemieux.iric.ca/author/a.-breton/</link>
+    </image>
+    
+    <item>
+      <title>Essential gene identification and drug target prioritization in Aspergillus fumigatus</title>
+      <link>https://www.lemieux.iric.ca/publication/2007_hu_essential/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2007_hu_essential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale essential gene identification in Candida albicans and applications to antifungal drug discovery</title>
+      <link>https://www.lemieux.iric.ca/publication/2003_roemer_large-scale/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2003_roemer_large-scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Lehnertz | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/b.-lehnertz/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/b.-lehnertz/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Lehnertz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Lehnertz</title>
+      <link>https://www.lemieux.iric.ca/author/b.-lehnertz/</link>
+    </image>
+    
+    <item>
+      <title>Genetic characterization of ABT-199 sensitivity in human AML</title>
+      <link>https://www.lemieux.iric.ca/publication/2020_bisaillon_genetic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2020_bisaillon_genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hematopoietic stem cell transplantation using single UM171-expanded cord blood: a single-arm, phase 1-2 safety and feasibility study</title>
+      <link>https://www.lemieux.iric.ca/publication/2020_cohen_hematopoietic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2020_cohen_hematopoietic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mubritinib Targets the Electron Transport Chain Complex I and Reveals the Landscape of OXPHOS Dependency in Acute Myeloid Leukemia</title>
+      <link>https://www.lemieux.iric.ca/publication/2019_baccelli_mubritinib/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2019_baccelli_mubritinib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemogenomic Landscape of RUNX1-mutated AML Reveals Importance of RUNX1 Allele Dosage in Genetics and Glucocorticoid Sensitivity</title>
+      <link>https://www.lemieux.iric.ca/publication/2017_simon_chemogenomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2017_simon_chemogenomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

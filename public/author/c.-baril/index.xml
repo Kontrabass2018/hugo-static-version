@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Baril | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/c.-baril/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/c.-baril/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Baril</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Baril</title>
+      <link>https://www.lemieux.iric.ca/author/c.-baril/</link>
+    </image>
+    
+    <item>
+      <title>A functional screen reveals an extensive layer of transcriptional and splicing control underlying RAS/MAPK signaling in Drosophila</title>
+      <link>https://www.lemieux.iric.ca/publication/2014_ashton-beaucage_functional/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2014_ashton-beaucage_functional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

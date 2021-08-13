@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Gerby | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/b.-gerby/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/b.-gerby/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Gerby</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Gerby</title>
+      <link>https://www.lemieux.iric.ca/author/b.-gerby/</link>
+    </image>
+    
+    <item>
+      <title>SCL, LMO1 and Notch1 reprogram thymocytes into self-renewing cells</title>
+      <link>https://www.lemieux.iric.ca/publication/2014_gerby_scl/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2014_gerby_scl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic interaction between Kit and Scl</title>
+      <link>https://www.lemieux.iric.ca/publication/2013_lacombe_genetic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2013_lacombe_genetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

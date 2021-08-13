@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Pabst | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/c.-pabst/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/c.-pabst/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Pabst</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Pabst</title>
+      <link>https://www.lemieux.iric.ca/author/c.-pabst/</link>
+    </image>
+    
+    <item>
+      <title>Hepatic leukemia factor is a novel leukemic stem cell regulator in DNMT3A, NPM1, and FLT3-ITD triple-mutated AML</title>
+      <link>https://www.lemieux.iric.ca/publication/2019_garg_hepatic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2019_garg_hepatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic landscape of acute promyelocytic leukemia reveals aberrant surface expression of the platelet aggregation agonist Podoplanin</title>
+      <link>https://www.lemieux.iric.ca/publication/2018_lavallee_transcriptomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2018_lavallee_transcriptomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemo-genomic interrogation of CEBPA mutated AML reveals recurrent CSF3R mutations and subgroup sensitivity to JAK inhibitors</title>
+      <link>https://www.lemieux.iric.ca/publication/2016_lavallee_chemo-genomic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2016_lavallee_chemo-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPR56 identifies primary human acute myeloid leukemia cells with high repopulating potential in vivo</title>
+      <link>https://www.lemieux.iric.ca/publication/2016_pabst_gpr56/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2016_pabst_gpr56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome analysis of G protein-coupled receptors in distinct genetic subgroups of acute myeloid leukemia: identification of potential disease-specific targets</title>
+      <link>https://www.lemieux.iric.ca/publication/2016_maiga_transcriptome/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2016_maiga_transcriptome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of small molecules that support human leukemia stem cell activity ex vivo</title>
+      <link>https://www.lemieux.iric.ca/publication/2014_pabst_identification/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2014_pabst_identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

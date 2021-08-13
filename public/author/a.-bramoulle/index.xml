@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bramoulle | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/a.-bramoulle/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/a.-bramoulle/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Bramoulle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Bramoulle</title>
+      <link>https://www.lemieux.iric.ca/author/a.-bramoulle/</link>
+    </image>
+    
+    <item>
+      <title>The MHC I immunopeptidome conveys to the cell surface an integrative view of cellular regulation</title>
+      <link>https://www.lemieux.iric.ca/publication/2011_caron_mhc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2011_caron_mhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deletion of immunoproteasome subunits imprints on the transcriptome and has a broad impact on peptides presented by major histocompatibility complex I molecules</title>
+      <link>https://www.lemieux.iric.ca/publication/2010_de_deletion/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2010_de_deletion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

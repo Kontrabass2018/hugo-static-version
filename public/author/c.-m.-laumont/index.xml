@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. M. Laumont | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/c.-m.-laumont/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/c.-m.-laumont/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. M. Laumont</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>C. M. Laumont</title>
+      <link>https://www.lemieux.iric.ca/author/c.-m.-laumont/</link>
+    </image>
+    
+    <item>
+      <title>Atypical acute myeloid leukemia-specific transcripts generate shared and immunogenic MHC class-I-associated epitopes</title>
+      <link>https://www.lemieux.iric.ca/publication/2021_ehx_atypical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2021_ehx_atypical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteogenomics Uncovers a Vast Repertoire of Shared Tumor-Specific Antigens in Ovarian Cancer</title>
+      <link>https://www.lemieux.iric.ca/publication/2020_zhao_proteogenomics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2020_zhao_proteogenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noncoding regions are the main source of targetable tumor-specific antigens</title>
+      <link>https://www.lemieux.iric.ca/publication/2018_laumont_noncoding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2018_laumont_noncoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global proteogenomic analysis of human MHC class I-associated peptides derived from non-canonical reading frames</title>
+      <link>https://www.lemieux.iric.ca/publication/2016_laumont_global/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2016_laumont_global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of genomic polymorphisms on the repertoire of human MHC class I-associated peptides</title>
+      <link>https://www.lemieux.iric.ca/publication/2014_granados_impact/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2014_granados_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MHC I-associated peptides preferentially derive from transcripts bearing miRNA response elements</title>
+      <link>https://www.lemieux.iric.ca/publication/2012_granados_mhc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2012_granados_mhc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Trofimov | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/a.-trofimov/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/a.-trofimov/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Trofimov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Trofimov</title>
+      <link>https://www.lemieux.iric.ca/author/a.-trofimov/</link>
+    </image>
+    
+    <item>
+      <title>UM171-Expanded Cord Blood Transplants Support Robust T Cell Reconstitution with Low Rates of Severe Infections</title>
+      <link>https://www.lemieux.iric.ca/publication/2021_dumont-lagace_um171-expanded/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2021_dumont-lagace_um171-expanded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factorized embeddings learns rich and biologically meaningful embedding spaces using factorized tensor decomposition</title>
+      <link>https://www.lemieux.iric.ca/publication/2020_trofimov_factorized/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2020_trofimov_factorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widespread and tissue-specific expression of endogenous retroelements in human somatic tissues</title>
+      <link>https://www.lemieux.iric.ca/publication/2020_larouche_widespread/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2020_larouche_widespread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression of immunoproteasome genes is regulated by cell-intrinsic and -extrinsic factors in human cancers</title>
+      <link>https://www.lemieux.iric.ca/publication/2016_rouette_expression/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2016_rouette_expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Features of AIRE-Induced and AIRE-Independent Promiscuous Gene Expression in Thymic Epithelial Cells</title>
+      <link>https://www.lemieux.iric.ca/publication/2015_st-pierre_differential/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2015_st-pierre_differential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

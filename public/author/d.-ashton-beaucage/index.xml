@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Ashton-Beaucage | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/d.-ashton-beaucage/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/d.-ashton-beaucage/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Ashton-Beaucage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Ashton-Beaucage</title>
+      <link>https://www.lemieux.iric.ca/author/d.-ashton-beaucage/</link>
+    </image>
+    
+    <item>
+      <title>MiSTIC, an integrated platform for the analysis of heterogeneity in large tumour transcriptome datasets</title>
+      <link>https://www.lemieux.iric.ca/publication/2017_lemieux_mistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2017_lemieux_mistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional screen reveals an extensive layer of transcriptional and splicing control underlying RAS/MAPK signaling in Drosophila</title>
+      <link>https://www.lemieux.iric.ca/publication/2014_ashton-beaucage_functional/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2014_ashton-beaucage_functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive map of the mTOR signaling network</title>
+      <link>https://www.lemieux.iric.ca/publication/2010_caron_comprehensive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2010_caron_comprehensive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

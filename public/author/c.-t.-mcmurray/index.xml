@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. T. McMurray | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/c.-t.-mcmurray/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/c.-t.-mcmurray/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. T. McMurray</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>C. T. McMurray</title>
+      <link>https://www.lemieux.iric.ca/author/c.-t.-mcmurray/</link>
+    </image>
+    
+    <item>
+      <title>Function of hexameric RNA in packaging of bacteriophage phi 29 DNA in vitro</title>
+      <link>https://www.lemieux.iric.ca/publication/1998_zhang_function/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/1998_zhang_function/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. St-Pierre | Lemieux&#39;s Lab</title>
+    <link>https://www.lemieux.iric.ca/author/c.-st-pierre/</link>
+      <atom:link href="https://www.lemieux.iric.ca/author/c.-st-pierre/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. St-Pierre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Laboratoire Lemieux Lab</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.lemieux.iric.ca/images/icon_hu6a2a46345a565c8656341754be80476a_247839_512x512_fill_lanczos_center_2.png</url>
+      <title>C. St-Pierre</title>
+      <link>https://www.lemieux.iric.ca/author/c.-st-pierre/</link>
+    </image>
+    
+    <item>
+      <title>Noncoding regions are the main source of targetable tumor-specific antigens</title>
+      <link>https://www.lemieux.iric.ca/publication/2018_laumont_noncoding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2018_laumont_noncoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Features of AIRE-Induced and AIRE-Independent Promiscuous Gene Expression in Thymic Epithelial Cells</title>
+      <link>https://www.lemieux.iric.ca/publication/2015_st-pierre_differential/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2015_st-pierre_differential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome sequencing of neonatal thymic epithelial cells</title>
+      <link>https://www.lemieux.iric.ca/publication/2013_st-pierre_transcriptome/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.lemieux.iric.ca/publication/2013_st-pierre_transcriptome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
